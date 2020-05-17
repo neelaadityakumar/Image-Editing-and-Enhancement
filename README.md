@@ -1,2 +1,2 @@
 # CS300
-This is project of the course CS300@IIIT Manipur by Aditya kumar
+This is part of my institute project CS300@IIIT Manipur mentored by Dr. Kishorjit Nongmeikapam(HOD,CSE).
