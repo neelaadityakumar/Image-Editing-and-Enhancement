@@ -1,7 +1,7 @@
 Image Editing and Enhancement
 
 Attached jupyter notebook contains some of the algorithm that i implemented from scratch.
-But all the implemented algorithms can be found in the project.py file.
+But all the implemented algorithms can be found in the cs300/project.py file.
 This Project implements following Image processing Algorithms on a given input image, all from scratch :-
 1. Grayscale
 2. Black & White
@@ -14,3 +14,4 @@ This Project implements following Image processing Algorithms on a given input i
 9. Gamma Transformation
 10. Mean Filter
 11. Median Filter
+Flask (Python web Framework) is used for a better user interface.
