@@ -1,4 +1,4 @@
-# CS300
+# Image Processing
 Image Editing and Enhancement
 Attached jupyter notebook contains some of the algorithm that i implemented from scratch.
 But all the implemented algorithms can be found in the project.py file.
