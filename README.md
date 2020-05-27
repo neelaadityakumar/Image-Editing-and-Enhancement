@@ -1,5 +1,4 @@
-# Image Processing
-Image Editing and Enhancement
+#Image Editing and Enhancement
 Attached jupyter notebook contains some of the algorithm that i implemented from scratch.
 But all the implemented algorithms can be found in the project.py file.
 This Project implements following Image processing Algorithms on a given input image, all from scratch :-
